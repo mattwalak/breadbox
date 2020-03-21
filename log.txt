@@ -1,0 +1,6 @@
+3/18/20		10:20pm		0:45	The breadbox was born
+3/20/20		10:00am		1:30	Added camera, tri, scene, transform, and others
+3/20/20		5:00pm		1:45	Began working on transform keyframes
+3/20/20		8:00pm		1:20	Implemented keyframes for transform
+----------------------------------------------------------------------------------------------
+						5:20	TOTAL

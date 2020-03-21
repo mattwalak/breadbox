@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+from datetime import date
+from datetime import timedelta
+from PIL import Image
+import math
+
+min = 0
+num = 65
+for min in range(num):
+	if (min%50) == 0:
+		print(min)
+	im = Image.open(format(min, '02d')+".ppm")
+	pix = im.load()
+	im.save("Converted/"+format(min,'02d')+".png")
+	min += 1
